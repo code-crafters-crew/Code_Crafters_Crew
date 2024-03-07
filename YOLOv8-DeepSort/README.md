@@ -2,8 +2,11 @@
 Smart Traffic Control Using YOLOv8 Object Detection with DeepSORT Tracking </H1>
 
 ## Steps to run Code
-
-- Go to the folder.
+- Clone repository
+```
+git clone https://github.com/code-crafters-crew/Code_Crafters_Crew.git
+```
+- Go to the cloned folder.
 ```
 cd YOLOv8-DeepSORT-Object-Tracking
 ```
